@@ -12,9 +12,9 @@ setup(
     author="Ic3zy",
     author_email="abdullah51dundar51@gmail.com",
     description="Textmaker Api",
-    long_description=open('README.md').read(),  # README dosyasından uzun açıklama alır
-    long_description_content_type='text/markdown',  # README dosyasının formatı (Markdown)
-    url="https://github.com/yourusername/textmakerapi",  # Proje URL'si
+    long_description=open('README.md', encoding='utf-8').read(),
+    long_description_content_type='text/markdown',
+    url="https://github.com/abdullah5151/textmaker",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
