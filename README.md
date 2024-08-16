@@ -3,8 +3,8 @@
 ### It requires chromedriver and geckodriver to work (both are available in the file).
 ## İnstalling Codes :
 ```py
-$ git clone https://github.com/abdullah5151/Text-Maker
-$ cd Text-maker
+$ git clone https://github.com/abdullah5151/textmakeras
+$ cd textmakeras
 $ pip install selenium
 $ pip install pillow
 $ pip install requests
