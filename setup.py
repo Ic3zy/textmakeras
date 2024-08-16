@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="textmaker",
-    version="0.1.3",
+    version="0.1.3-beta",
     packages=find_packages(),
     install_requires=[
         "selenium",
